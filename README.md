@@ -35,7 +35,7 @@
 
 **Languages**
 <p>
-  <a href=" https://github.com/yrpyash22/C-Programming"> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" /> </a>
+  <a href="https://github.com/yrpyash22/C-Programming"> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" /> </a>
   <a href="https://github.com/yrpyash22/Cpp-Programs"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" /> </a>
   <a href="https://github.com/yrpyash22/Java-Programs"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></a>
   <a href="https://github.com/yrpyash22/Web-Devlopment/tree/main/FrontEnd/JavaScript"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> </a>
